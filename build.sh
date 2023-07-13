@@ -1,3 +1,5 @@
+#!/bin/bash
+# build.sh
 echo "Building docker image"
 docker build -t hello:latest .
 

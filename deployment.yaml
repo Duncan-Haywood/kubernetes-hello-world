@@ -1,3 +1,7 @@
+# deployment.yaml
+# Kubernetes deployment for Flask app
+# Runs one replica of the container
+# Sets imagePullPolicy to Never since image is local
 apiVersion: apps/v1
 kind: Deployment
 metadata:

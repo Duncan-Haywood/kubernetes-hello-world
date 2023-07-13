@@ -1,3 +1,5 @@
+# app.py
+# This is a simple Flask app that will serve a single page
 from flask import Flask
 
 app = Flask(__name__)

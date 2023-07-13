@@ -1,1 +1,3 @@
+# requirements.txt
+# Python dependencies for Flask app
 Flask==2.0.1
